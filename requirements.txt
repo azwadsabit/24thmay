@@ -1,0 +1,5 @@
+streamlit== 1.38.0  # Replace with the version you are using
+Pillow
+numpy
+tensorflow==2.18.0
+gdown
