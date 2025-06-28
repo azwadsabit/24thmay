@@ -1,5 +1,6 @@
-streamlit # Replace with the version you are using
+streamlit
 Pillow
-numpy
-tensorflow 
+numpy<2.0
+tensorflow>=2.15.0
 gdown
+matplotlib
