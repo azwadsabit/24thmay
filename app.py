@@ -9,7 +9,7 @@ import os
 import requests  # For ESP32 communication
 
 # ESP32 Configuration
-ESP32_IP = "192.168.71.176"
+ESP32_IP = "192.168.210.176"
 
 # Set Streamlit page config
 st.set_page_config(page_title="Rice Pest Detection", page_icon="🌾", layout="wide")
